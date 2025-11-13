@@ -1,11 +1,11 @@
 <!--Banner-->
-<img width="2000" height="600" alt="Spectra_Cover" src="https://github.com/user-attachments/assets/09fc5caa-e850-4526-b40c-c1111c3cc8b5" />
+<img width="2000" height="600" alt="Spectra_Cover" src="https://github.com/user-attachments/assets/92f75df9-f9f8-4b13-a8eb-93282cef5ce7" />
 
 
 
 <!--Spectra image-->
 <div>
-  <img align="right" width="40%" src="https://github.com/user-attachments/assets/2cb190ff-d9e3-49a7-847a-c71637fe09d4">
+  <img align="right" width="40%" src="https://github.com/user-attachments/assets/37a8b677-c561-45fa-902a-b9e0f2c1d4e1">
 </div>
 
 # 🌲 Spectra - Interactive Tree Editor
@@ -150,7 +150,7 @@ Experience the **full power of Spectra** — advanced multi-group management, dr
 Perfectly optimized for **4K and HD monitors**, ensuring clarity and refinement at every pixel.
 
 <p align="center">
-<video src="https://github.com/user-attachments/assets/ce4a44ca-066d-4af4-bd2b-092f9da8dda1"
+<video src="https://github.com/user-attachments/assets/cddef532-8a57-4375-9abf-e689b489b0c4"
 width="800"
 controls
 poster=""
@@ -166,7 +166,7 @@ The demo version showcases core tree editing capabilities — intuitive node man
 Fast, responsive, and visually stunning for quick prototyping and learning.
 
 <p align="center">
-<video src="https://github.com/user-attachments/assets/ed422e9f-ea3d-4cfb-aa70-80dc4e70e74e"
+<video src="https://github.com/user-attachments/assets/13d4339b-6f67-494a-a4c0-f65adc6dba54"
 width="800"
 controls
 poster=""
